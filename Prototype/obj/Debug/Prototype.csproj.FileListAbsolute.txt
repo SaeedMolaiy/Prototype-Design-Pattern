@@ -1,0 +1,8 @@
+C:\Users\s.molaee\source\repos\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\s.molaee\source\repos\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\s.molaee\source\repos\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\s.molaee\source\repos\Prototype\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+C:\Users\s.molaee\source\repos\Prototype\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+C:\Users\s.molaee\source\repos\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee\source\repos\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\s.molaee\source\repos\Prototype\Prototype\obj\Debug\Prototype.pdb
